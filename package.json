@@ -1,0 +1,26 @@
+{
+  "name": "mysql_training",
+  "version": "1.0.0",
+  "description": "For training MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChineDmitri/MySQL_training.git"
+  },
+  "keywords": [
+    "MySQL",
+    "SQL"
+  ],
+  "author": "Chine Dmitri <mr.dima11@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChineDmitri/MySQL_training/issues"
+  },
+  "homepage": "https://github.com/ChineDmitri/MySQL_training#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
